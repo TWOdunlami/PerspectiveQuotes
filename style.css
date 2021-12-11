@@ -1,15 +1,1 @@
-.container {
-  position: relative;
-  border-radius: 5px;
-  border: 10px linen;
-  background-color: #f2f2f2;
-  padding: 100px;
-  max-width: 500px;
-  height: 300px;
-  margin: auto;
-  }
- h1 {
-  text-align: center;
-  pading: 0px 20px;
-  font-style: light;
- }
+/* center boxes and apply accessibility-friendly colors. */
