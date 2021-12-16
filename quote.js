@@ -1,59 +1,11 @@
 // object below this line is incomplete.
 var quote = [
-"Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.",
+"Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world. - Harriet Thubman",
 "No matter what accomplishments you make, somebody helped you.",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-"",
-]
 
+]
+/*
 function genQuote() {
-var randomQuote = Math.floor(Math.random() * quote.length);
-document.getElementById('quoteSection').innerHTML = quote[randomQuote];
-}
+var randomNumber = Math.floor(Math.random() * quote.length);
+document.getElementById('quote').innerHTML = quote[randomNumber];
+} */
