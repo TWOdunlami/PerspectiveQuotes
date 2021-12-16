@@ -1,1 +1,33 @@
 /* center boxes and apply accessibility-friendly colors. */
+body{
+    background-color: lightsteelblue;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 100px;
+}
+.container {
+    border: 10px solid linen;
+    background-color: lightgrey;
+    max-width: 40%;
+    border-radius: 10px;
+    padding: 50px;
+    padding-bottom: 90px;
+    margin: auto;
+}
+#quoteMsg {
+    line-height: 1.8;
+    text-align: right;
+}
+button {
+    background-color: linen;
+    box-shadow: 2px 1px lightskyblue;
+    border: 3px ridge white;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+button:hover {
+    background-color: lightskyblue;
+    color: black;
+}
