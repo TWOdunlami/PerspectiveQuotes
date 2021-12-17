@@ -6,6 +6,11 @@ h1 {
     text-align: center;
     margin-bottom: 100px;
 }
+.iconLogo {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
 .container {
     border: 10px solid linen;
     background-color: lightgrey;
