@@ -1,7 +1,15 @@
 // object below this line is incomplete.
 var quotes = [
-    'Every great dream begins with a dreamer. Always remember you have within you the strength the patience and the passion to reach for the stars to change the world',
-    'No matter what accomplishments you make somebody helped you'
+    'Every great dream begins with a dreamer. Always remember you have within you the strength the patience and the passion to reach for the stars to change the world.',
+    'No matter what accomplishments you make somebody helped you.',
+    'Talk is cheap. Show me the code.',
+    'The secret behind success is not as much of a secret as people think. It is pretty simple. It is working as hard as you can to accomplish what you want',
+    'Take stock of your thoughts and behavior. Each night ask yourself, when were you negative when you could have been positive? When did you withhold love when you might have given it? When did you play a neurotic game instead of behaving in a powerful way? Use this process to self-correct.',
+    'From there to here, and here to there, funny things are everywhere.',
+    'We all learn lessons in life. Some stick, some do not. I have always learned more from rejection and failure than from acceptance and success.',
+    'However difficult life may seem, there is always something you can do and succeed at.',
+    'Wisdom is the power to put our time and our knowledge to the proper use.',
+    'It is far better to grasp the universe as it really is than to persist in delusion, however satisfying and reassuring.'
 ]
 
 function newQuote() {
