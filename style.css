@@ -18,20 +18,29 @@ h1 {
     max-width: 40%;
     border-radius: 10px;
     padding: 50px;
-    padding-bottom: 90px;
+    padding-bottom: 60px;
     margin: auto;
 }
 #quoteMsg {
-    line-height: 1.8;
-    text-align: center;
+    line-height: 1.1;
+    text-align: left;
 }
 button {
-    margin-top: 80px;
+    position: fixed;
+    margin-top: 420px;
+    padding-left: 27px;
+    padding-right: 27px;
+    padding-bottom: 32px;
+    left: 40%;
+    right: 50%;
+    top: 13.65%;
+    bottom: 77.58%;
     background-color: linen;
     box-shadow: 2px 1px lightskyblue;
     border: 3px ridge white;
     border-radius: 10px;
     cursor: pointer;
+    text-align: left;
     transition: 0.4s;
 }
 button:hover {
