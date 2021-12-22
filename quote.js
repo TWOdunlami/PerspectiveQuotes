@@ -9,7 +9,34 @@ var quotes = [
     'We all learn lessons in life. Some stick, some do not. I have always learned more from rejection and failure than from acceptance and success.',
     'However difficult life may seem, there is always something you can do and succeed at.',
     'Wisdom is the power to put our time and our knowledge to the proper use.',
-    'It is far better to grasp the universe as it really is than to persist in delusion, however satisfying and reassuring.'
+    'It is far better to grasp the universe as it really is than to persist in delusion, however satisfying and reassuring.',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
 ]
 
 function newQuote() {
@@ -23,5 +50,6 @@ function newQuote() {
 
     document.getElementById("quoteMsg").innerHTML = quote;
     document.getElementById("author").innerHTML = author;
+    var video = document.getElementById("vidLoop");
 }
 */
