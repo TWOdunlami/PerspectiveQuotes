@@ -3,7 +3,7 @@
 @media only screen and (min-width: 768px) {
   body {min-width: 100%;}
 }
-body{
+body {
     color: black;
     font-family: 'Newsreader', serif;
     background-color: white;
@@ -22,7 +22,9 @@ h1 {
 }
 .container {
     border: 10px solid linen;
-    background-color: lightgrey;
+    background: url("https://images.pexels.com/photos/6775241/pexels-photo-6775241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-repeat: no-repeat;
+    background-size: cover;
     max-width: 40%;
     border-radius: 10px;
     padding: 50px;
