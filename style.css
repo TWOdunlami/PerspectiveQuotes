@@ -26,13 +26,13 @@ h1 {
     text-align: left;
 }
 button {
-    position: fixed;
+    position: sticky;
     margin-top: 420px;
-    padding-left: 27px;
-    padding-right: 27px;
-    padding-bottom: 32px;
-    left: 40%;
-    right: 50%;
+    padding-left: 44px;
+    padding-right: 44px;
+    padding-bottom: 12px;
+    left: 45%;
+    right: 45%;
     top: 13.65%;
     bottom: 77.58%;
     background-color: linen;
@@ -40,7 +40,7 @@ button {
     border: 3px ridge white;
     border-radius: 10px;
     cursor: pointer;
-    text-align: left;
+    text-align: right;
     transition: 0.4s;
 }
 button:hover {
