@@ -1,9 +1,12 @@
 /* center boxes and apply accessibility-friendly colors. */
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:wght@300;400&display=swap');
 @media only screen and (min-width: 768px) {
   body {min-width: 100%;}
 }
 body{
-    background-color: lightsteelblue;
+    color: black;
+    font-family: 'Newsreader', serif;
+    background-color: white;
 }
 h1 {
     text-align: center;
