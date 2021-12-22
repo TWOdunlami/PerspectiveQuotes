@@ -1,4 +1,9 @@
 /* center boxes and apply accessibility-friendly colors. */
+@media (max-width: 300px) {
+    .container + button {   
+      flex-direction: column;
+    }
+}
 body{
     background-color: lightsteelblue;
 }
@@ -13,6 +18,7 @@ h1 {
     margin-left: auto;
 } */
 .container {
+    position: sticky;
     border: 10px solid linen;
     background-color: lightgrey;
     max-width: 40%;
