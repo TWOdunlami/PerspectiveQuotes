@@ -10,6 +10,8 @@ var quotes = [
     'However difficult life may seem, there is always something you can do and succeed at.',
     'Wisdom is the power to put our time and our knowledge to the proper use.',
     'It is far better to grasp the universe as it really is than to persist in delusion, however satisfying and reassuring.',
+    'When you single out any particular group of people for secondary citizenship status, that is a violation of basic human rights.',
+    'If you prioritize yourself, you are going to save yourself.',
     '',
     '',
     '',
@@ -31,12 +33,10 @@ var quotes = [
     '',
     '',
     '',
-    '',
-    '',
-    '',
-    '',
-    '',
-    '',
+    'Happiness is spiritual, born of truth and love. It is unselfish. Therefore it cannot exist alone, but requires all mankind to share it.',
+    'To one who has faith, no explanation is necessary. To one without faith, no explanation is possible.',
+    'Human rights are not only violated by terrorism, repression or assassination, but also by unfair economic structures that creates huge inequalities.',
+    'It is so liberating to really know what I want, what truly makes me happy, what I will not tolerate. I have learned that it is no one elses job to take care of me but me.',
 ]
 
 function newQuote() {
