@@ -1,8 +1,6 @@
 /* center boxes and apply accessibility-friendly colors. */
 @import url('https://fonts.googleapis.com/css2?family=Newsreader:wght@300;400&display=swap');
-@media only screen and (min-width: 768px) {
-  body {min-width: 100%;}
-}
+@media only screen and (min-width: 200px) {
 body {
     color: black;
     font-weight: 210;
@@ -10,9 +8,6 @@ body {
     background: no-repeat url("https://images.pexels.com/photos/6585236/pexels-photo-6585236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=631&w=1496");
     background-position: center top;
 }
-img {
-    max-width: 100%;
-    height: 100%;
 }
 h1 {
     text-align: center;
