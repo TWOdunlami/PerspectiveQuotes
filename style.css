@@ -3,7 +3,7 @@
 @media only screen and (min-width: 200px) {
 body {
     color: black;
-    font-weight: 210;
+    font-weight: 410;
     font-family: 'Newsreader', serif;
     background: no-repeat url("https://images.pexels.com/photos/6585236/pexels-photo-6585236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=631&w=1496");
     background-position: center top;
@@ -38,7 +38,8 @@ h1 {
 }
 #quoteMsg {
     line-height: 1.1;
-    text-align: left;
+    font-size: 20px;
+    text-align: center;
 }
 button {
     position: absolute;
