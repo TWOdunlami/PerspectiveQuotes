@@ -20,3 +20,5 @@ We are in this together to Share time, knowledge, and space.
 [^2]: ![UI snapshot](https://github.com/TWOdunlami/PerspectiveQuotes/blob/localdev/images/snapshot12162021.png)
 3. - [ ] VISUAL SNAPSHOT of Everyday Quotes with working Javascript, Math.floor concept has been tested. Date completed 12.21.2021,[^3] snapshot.
 [^3]: ![UI snapshot](https://github.com/TWOdunlami/PerspectiveQuotes/blob/localdev/images/snapshot12212021.png)
+4. - [ ] VISUAL SNAPSHOT of Everyday Quotes wallpaper from pexels and font styling. Date completed 12.21.2021,[^4] snapshot.
+[^4]: ![UI snapshot](https://github.com/TWOdunlami/PerspectiveQuotes/blob/localdev/images/snapshot12232021.png)
