@@ -6,6 +6,12 @@ PositiveQuotes is a fun and quick <code>HTML</code> <code>CSS</code> and <code>J
 We are in this together to Share time, knowledge, and space.
 
 ---
+## Source of images and icon
+- Bakcground image for generated quotes: ![Pexels](https://www.pexels.com)
+- Background wallpaper: ![Pexels](https://www.pexels.com)
+- Header title logo: ![Noun Project](https://thenounproject.com)
+
+---
 
 1. - [ ] VISUAL SNAPSHOT of FIGMA UI Prototype date completed 12.12.2021,[^1] snapshot.
 [^1]: ![UI snapshot](https://github.com/TWOdunlami/PerspectiveQuotes/blob/localdev/images/figma.png)
