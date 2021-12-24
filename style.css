@@ -5,11 +5,18 @@
 }
 body {
     color: black;
+    font-weight: 210;
     font-family: 'Newsreader', serif;
-    background-color: white;
+    background: no-repeat url("https://images.pexels.com/photos/6585236/pexels-photo-6585236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=631&w=1496");
+    background-position: center top;
+}
+img {
+    max-width: 100%;
+    height: 100%;
 }
 h1 {
     text-align: center;
+    font-weight: 210;
     margin-bottom: 100px;
     cursor: pointer;
 }
