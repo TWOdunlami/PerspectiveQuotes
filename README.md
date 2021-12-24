@@ -2,7 +2,7 @@
 
 ### Objective
 
-PositiveQuotes is a fun and quick <code>HTML</code> <code>CSS</code> and <code>Javascript</code>project to enhance growing UI/UX skills in web development. 
+<mark>EverydayQuotes</mark> is a fun and quick <code>HTML</code> <code>CSS</code> and <code>Javascript</code> project to enhance growing UI/UX skills in web development. 
 We are in this together to Share time, knowledge, and space.
 
 ---
