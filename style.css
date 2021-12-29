@@ -1,6 +1,6 @@
-/* center boxes and apply accessibility-friendly colors. */
+/* center boxes and apply accessibility-friendly colors. @media only screen and (max-width: 600px) */
 @import url('https://fonts.googleapis.com/css2?family=Newsreader:wght@300;400&display=swap');
-@media only screen and (min-width: 200px) {
+@media only screen and (min-width: 100px) {
 body {
     color: black;
     font-weight: 410;
@@ -16,7 +16,7 @@ h1 {
     cursor: pointer;
 }
 .iconLogo {
-    border: 1px solid linen;
+    border: 1px dotted rgb(199, 164, 140);
     border-radius: 8px;
     display: block;
     margin-right: auto;
