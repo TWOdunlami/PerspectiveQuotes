@@ -43,12 +43,12 @@ h1 {
 }
 button {
     position: absolute;
+    float: left;
     margin-top: 470px;
     padding-left: 44px;
     padding-right: 44px;
     padding-bottom: 29px;
-    left: 37%;
-    right: 37%;
+    left: 44%;
     top: 9.65%;
     bottom: 77.58%;
     background-color: linen;
