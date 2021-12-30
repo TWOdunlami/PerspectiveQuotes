@@ -24,3 +24,5 @@ We are in this together to Share time, knowledge, and space.
 [^4]: ![UI snapshot](https://github.com/TWOdunlami/PerspectiveQuotes/blob/localdev/images/snapshot12232021.png)
 5. - [ ] VISUAL SNAPSHOT of Everyday Quotes displaying proper contractions. Date completed 12.26.2021,[^5] snapshot.
 [^5]: ![UI snapshot](https://github.com/TWOdunlami/PerspectiveQuotes/blob/localdev/images/snapshot12262021.png)
+6. - [ ] VISUAL SNAPSHOT of Everyday Quotes desktop size is reponsive. Mobile will be added later 🔄. Date completed 12.30.2021,[^6] snapshot.
+[^6]: ![UI snapshot](https://github.com/TWOdunlami/PerspectiveQuotes/blob/localdev/images/snapshot12302021.png)
