@@ -1,6 +1,6 @@
 /* center boxes and apply accessibility-friendly colors. @media only screen and (max-width: 600px) */
 @import url('https://fonts.googleapis.com/css2?family=Newsreader:wght@300;400&display=swap');
-@media only screen and (min-width: 100px) {
+@media only screen and (min-width: 200px) {
 body {
     color: black;
     font-weight: 410;
@@ -31,25 +31,25 @@ h1 {
     background-size: cover;
     max-width: 40%;
     border-radius: 10px;
-    padding: 50px;
-    padding-bottom: 60px;
+    padding: 30px;
+    padding-bottom: 20px;
     margin: auto;
     cursor: pointer;
 }
 #quoteMsg {
     line-height: 1.1;
-    font-size: 20px;
+    font-size: 14px;
     text-align: center;
 }
 button {
     position: absolute;
-    margin-top: 420px;
+    margin-top: 470px;
     padding-left: 44px;
     padding-right: 44px;
     padding-bottom: 29px;
-    left: 45%;
-    right: 45%;
-    top: 13.65%;
+    left: 37%;
+    right: 37%;
+    top: 9.65%;
     bottom: 77.58%;
     background-color: linen;
     box-shadow: 2px 1px lightskyblue;
@@ -57,7 +57,7 @@ button {
     border-radius: 10px;
     cursor: pointer;
     text-align: center;
-    transition: 0.4s;
+    transition: 0.1s;
 }
 button:hover {
     background-color: lightskyblue;
