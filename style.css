@@ -1,13 +1,11 @@
 /* center boxes and apply accessibility-friendly colors. @media only screen and (max-width: 600px) */
 @import url('https://fonts.googleapis.com/css2?family=Newsreader:wght@300;400&display=swap');
-@media only screen and (min-width: 200px) {
 body {
     color: black;
     font-weight: 410;
     font-family: 'Newsreader', serif;
     background: no-repeat url("https://images.pexels.com/photos/6585236/pexels-photo-6585236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=631&w=1496");
     background-position: center top;
-}
 }
 h1 {
     text-align: center;
@@ -45,9 +43,7 @@ button {
     position: absolute;
     float: left;
     margin-top: 470px;
-    padding-left: 44px;
-    padding-right: 44px;
-    padding-bottom: 29px;
+    padding: 6px 44px 22px 44px;
     left: 44%;
     top: 9.65%;
     bottom: 77.58%;
@@ -62,4 +58,27 @@ button {
 button:hover {
     background-color: lightskyblue;
     color: black;
+}
+@media only screen and (min-width: 200px) {
+    body {
+        color: black;
+        font-weight: 410;
+        font-family: 'Newsreader', serif;
+        background: no-repeat url("https://images.pexels.com/photos/6585236/pexels-photo-6585236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=631&w=1496");
+        background-position: center top;
+    }
+    }
+@media only screen and (max-width: 768px){
+    button {
+    margin-top: 470px;
+    justify-content: center;
+    width: 100%;
+    background-color: linen;
+    box-shadow: 2px 1px lightskyblue;
+    border: 3px ridge white;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center;
+    transition: 0.1s;
+}
 }
