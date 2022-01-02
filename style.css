@@ -40,15 +40,13 @@ h1 {
     text-align: center;
 }
 button {
-    position: absolute;
-    float: left;
-    margin-top: 470px;
-    padding: 6px 44px 22px 44px;
-    left: 44%;
-    top: 9.65%;
-    bottom: 77.58%;
-    background-color: linen;
-    box-shadow: 2px 1px lightskyblue;
+    display: inline;
+    margin-top: 180px;
+    margin-left: 339px;
+    width: 55.3%;
+    background-color: white;
+    color: black;
+    box-shadow: 1px 1px white;
     border: 3px ridge white;
     border-radius: 10px;
     cursor: pointer;
@@ -70,15 +68,17 @@ button:hover {
     }
 @media only screen and (max-width: 768px){
     button {
-    margin-top: 470px;
-    justify-content: center;
-    width: 100%;
-    background-color: linen;
-    box-shadow: 2px 1px lightskyblue;
-    border: 3px ridge white;
-    border-radius: 10px;
-    cursor: pointer;
-    text-align: center;
-    transition: 0.1s;
+        display: inline;
+        margin-top: 180px;
+        margin-left: -3px;
+        width: 100%;
+        background-color: white;
+        color: black;
+        box-shadow: 1px 1px white;
+        border: 3px ridge white;
+        border-radius: 10px;
+        cursor: pointer;
+        text-align: center;
+        transition: 0.1s;
 }
 }
