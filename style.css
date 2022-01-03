@@ -62,6 +62,11 @@ button:hover {
     background-color: lightskyblue;
     color: black;
 }
+hr {
+    margin-top: 88px;
+    border: 3px solid rgb(214, 196, 177);
+    border-radius: 8px;
+}
 /*responsive desktop view*/
 /* @media only screen and (min-width: 200px) {
     body {
