@@ -4,7 +4,7 @@ body {
     color: black;
     font-weight: 410;
     font-family: 'Newsreader', serif;
-    background: no-repeat url("https://images.pexels.com/photos/6585236/pexels-photo-6585236.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=631&w=1496");
+    background: no-repeat url("https://cdn.pixabay.com/photo/2016/10/29/01/30/abstract-1779589_960_720.png"); /* repeat-y url("") */
     background-position: center top;
 }
 h1 {
