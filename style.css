@@ -15,8 +15,9 @@ h1 {
     cursor: pointer;
 }
 .iconLogo {
-    border: 1px dotted rgb(199, 164, 140);
-    border-radius: 8px;
+    border: 1px dotted rgb(223, 190, 185);
+    box-shadow: 0px 4px 4px #E5E5E5;
+    border-radius: 38px;
     display: block;
     margin-right: auto;
     margin-left: auto;
