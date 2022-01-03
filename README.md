@@ -7,7 +7,7 @@ We are in this together to Share time, knowledge, and space.
 
 ---
 ### Source of images and icon
-- Bakcground image for generated quotes: (https://www.pexels.com)
+- Bakcground image for generated quotes: (https://cdn.pixabay.com/photo/2016/10/29/01/30/abstract-1779589_960_720.png)
 - Background wallpaper: (https://www.pexels.com)
 - Header title logo: (https://thenounproject.com)
 
