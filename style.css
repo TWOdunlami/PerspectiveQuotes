@@ -4,14 +4,14 @@ body {
     color: black;
     font-weight: 410;
     font-family: 'Newsreader', serif;
-    background: no-repeat url("https://cdn.pixabay.com/photo/2016/10/29/01/30/abstract-1779589_960_720.png"); /* repeat-y url("") */
+    background: no-repeat url("https://cdn.pixabay.com/photo/2016/10/29/01/30/abstract-1779589_960_720.png") white; /* repeat-y url("https://cdn.pixabay.com/photo/2019/10/09/10/52/light-4537085_960_720.jpg") */
     background-position: center top;
 }
 h1 {
     text-align: center;
     font-weight: 210;
     margin-bottom: 100px;
-    text-shadow: 4px 4px 4px rgba(214, 166, 177, 0.96);
+    text-shadow: 2px 2px 2px white; /* rgba(214, 166, 177, 0.96) */
     cursor: pointer;
 }
 .iconLogo {
@@ -26,7 +26,7 @@ h1 {
     max-height: 40px;
 }
 .container {
-    border: 10px solid linen;
+    border: 3px solid linen;
     background: url("https://images.pexels.com/photos/6775241/pexels-photo-6775241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
     background-repeat: no-repeat;
     background-size: cover;
@@ -101,7 +101,7 @@ button:hover {
         transition: 0.1s;
 }
         .container {
-        border: 10px solid linen;
+        border: 3px solid linen;
         background: url("https://images.pexels.com/photos/6775241/pexels-photo-6775241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
         background-repeat: no-repeat;
         background-size: cover;
@@ -117,7 +117,7 @@ button:hover {
 /* responsive desktop view below */
 @media only screen and (min-width: 866px) and (max-width: 1493px) {
     .container {
-        border: 10px solid linen;
+        border: 3px solid linen;
         background: url("https://images.pexels.com/photos/6775241/pexels-photo-6775241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
         background-repeat: no-repeat;
         background-size: cover;
