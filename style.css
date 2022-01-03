@@ -11,6 +11,7 @@ h1 {
     text-align: center;
     font-weight: 210;
     margin-bottom: 100px;
+    text-shadow: 4px 4px 4px rgba(214, 166, 177, 0.96);
     cursor: pointer;
 }
 .iconLogo {
@@ -38,6 +39,7 @@ h1 {
     line-height: 1.1;
     font-size: 14px;
     text-align: center;
+    text-shadow: 10px 10px 4px rgba(214, 166, 177, 0.96);
 }
 button {
     display: inline;
@@ -50,6 +52,7 @@ button {
     border: 3px ridge white;
     border-radius: 10px;
     cursor: pointer;
+    text-shadow: 4px 4px 4px linen;
     text-align: center;
     transition: 0.1s;
 }
@@ -79,7 +82,7 @@ button:hover {
         cursor: pointer;
     }
     } */
-/* responsive mobile view */
+/* responsive mobile view below */
 @media only screen and (min-width: 40px) and (max-width: 865px) {
     button {
         display: inline;
@@ -109,6 +112,7 @@ button:hover {
         cursor: pointer;
 }
 }
+/* responsive desktop view below */
 @media only screen and (min-width: 866px) and (max-width: 1493px) {
     .container {
         border: 10px solid linen;
