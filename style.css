@@ -72,6 +72,7 @@ footer {
     background-color: black;
     text-transform: lowercase;
     font-weight: 100;
+    cursor: pointer;
 }
 /*responsive desktop view*/
 /* @media only screen and (min-width: 200px) {
