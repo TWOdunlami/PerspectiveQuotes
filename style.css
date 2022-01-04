@@ -4,7 +4,7 @@ body {
     color: black;
     font-weight: 410;
     font-family: 'Newsreader', serif;
-    background: no-repeat url("https://cdn.pixabay.com/photo/2016/10/29/01/30/abstract-1779589_960_720.png") white; /* repeat-y url("https://cdn.pixabay.com/photo/2019/10/09/10/52/light-4537085_960_720.jpg") */
+    background: no-repeat url("https://cdn.pixabay.com/photo/2016/10/29/01/30/abstract-1779589_960_720.png") black; /* repeat-y url("https://cdn.pixabay.com/photo/2019/10/09/10/52/light-4537085_960_720.jpg") */
     background-position: center top;
 }
 h1 {
@@ -61,6 +61,17 @@ button {
 button:hover {
     background-color: lightskyblue;
     color: black;
+}
+footer {
+    position:fixed; 
+    left:0; 
+    bottom:0; 
+    width:100%; 
+    text-align:center; 
+    color:white; 
+    background-color: black;
+    text-transform: lowercase;
+    font-weight: 100;
 }
 /*responsive desktop view*/
 /* @media only screen and (min-width: 200px) {
