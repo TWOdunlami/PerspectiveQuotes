@@ -30,3 +30,5 @@ We are in this together to Share time, knowledge, and space.
 [^7]: ![UI snapshot](https://github.com/TWOdunlami/PerspectiveQuotes/blob/localdev/images/snapshot01032022.png)
 8. - [x] VISUAL SNAPSHOT of responsive Everyday Quotes with a brand new 🎨background. The style format is final🖋️. Date completed 01.03.2022,[^8] snapshot.
 [^8]: ![UI snapshot](https://github.com/TWOdunlami/PerspectiveQuotes/blob/localdev/images/snapshot01032022-2.png)
+9. - [x] VISUAL SNAPSHOT of Everyday Quotes with a Footer. The style format is final🖋️. 2 icons will be applied. Date completed 01.04.2022,[^9] snapshot.
+[^9]: ![UI snapshot](https://github.com/TWOdunlami/PerspectiveQuotes/blob/localdev/images/snapshot01042022.png)
