@@ -11,8 +11,8 @@ We are in this together to Share time, knowledge, and space.
 - Background wallpaper: **[Open Source|PEXELS](https://images.pexels.com/photos/6775241/pexels-photo-6775241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)**
 - Header title logo: **[Open Source|NounProject](https://thenounproject.com/icon/yoga-1952180/)**
 - Footer icons: **[Open Source|NounProject](https://thenounproject.com)**
-    -GitHub icon **[NounProject](https://thenounproject.com/icon/github-4289652/)**
-    -LinkedIN icon **[NounProject](https://thenounproject.com/icon/linkedin-2045581/)**
+    - GitHub icon **[NounProject](https://thenounproject.com/icon/github-4289652/)**
+    - LinkedIN icon **[NounProject](https://thenounproject.com/icon/linkedin-2045581/)**
 
 ---
 ### Visual Snapshot
