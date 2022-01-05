@@ -10,7 +10,7 @@ We are in this together to Share time, knowledge, and space.
 - Background image for generated quotes: **[Open Source|PIXABAY](https://cdn.pixabay.com/photo/2016/10/29/01/30/abstract-1779589_960_720.png)**
 - Background wallpaper: **[Open Source|PEXELS](https://images.pexels.com/photos/6775241/pexels-photo-6775241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)**
 - Header title logo: **[Open Source|NounProject](https://thenounproject.com/icon/yoga-1952180/)**
-- Footer icons: **[Open Source|NounProject](https://thenounproject.com)**
+- Footer icons:
     - GitHub **[icon](https://thenounproject.com/icon/github-4289652/)**
     - LinkedIN **[icon](https://thenounproject.com/icon/linkedin-2045581/)**
 
