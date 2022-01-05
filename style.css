@@ -66,7 +66,7 @@ button:hover {
     position:fixed; 
     left:0; 
     bottom:0; 
-    width:100%; 
+    width: 100%; 
     text-align:center; 
     color:white; 
     background-color: black;
@@ -77,9 +77,9 @@ button:hover {
     width: 15px;
     height: 15px;
 }
-.footerTag:visited {
-    text-transform: none;
-    color: linen;
+.footerTag {
+    color: white;
+    text-decoration-line: none;
 }
 /*responsive desktop view*/
 /* @media only screen and (min-width: 200px) {
