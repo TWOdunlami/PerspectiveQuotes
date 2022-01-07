@@ -13,7 +13,9 @@ We are in this together to Share our *time*, *knowledge*, and *space*.
 - Footer icons:
     - GitHub **[icon](https://thenounproject.com/icon/github-4289652/)**
     - LinkedIN **[icon](https://thenounproject.com/icon/linkedin-2045581/)**
-    - Footer icons [TWO survey](https://lrydatabuilders.w3spaces.com/quoteSurvey.html) [f09b](github) [f08c](linkedIN)
+    - Footer icons **[TWO survey &#x270D;](https://lrydatabuilders.w3spaces.com/quoteSurvey.html) 
+                **f09b(github)**
+                **f08c (linkedIN)**
 ---
 ### Visual Snapshot
 
