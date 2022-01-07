@@ -11,11 +11,9 @@ We are in this together to Share our *time*, *knowledge*, and *space*.
 - Background wallpaper: **[Open Source|PEXELS](https://images.pexels.com/photos/6775241/pexels-photo-6775241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)**
 - Header title logo: **[Open Source|NounProject](https://thenounproject.com/icon/yoga-1952180/)**
 - Footer icons:
-    - GitHub **[icon](https://thenounproject.com/icon/github-4289652/)**
-    - LinkedIN **[icon](https://thenounproject.com/icon/linkedin-2045581/)**
-    - Footer icons **[TWO survey &#x270D;](https://lrydatabuilders.w3spaces.com/quoteSurvey.html) 
-                **f09b(github)**
-                **f08c (linkedIN)**
+    - GitHub **[icon &#x270F;](https://thenounproject.com/icon/github-4289652/)**
+    - LinkedIN **[icon &#x260E;](https://thenounproject.com/icon/linkedin-2045581/)**
+    - Footer icons **[TWO survey &#x270D;](https://lrydatabuilders.w3spaces.com/quoteSurvey.html)**
 ---
 ### Visual Snapshot
 
