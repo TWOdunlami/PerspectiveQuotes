@@ -2,8 +2,8 @@
 
 Enjoy Everyday Motivational Quotes
 
-**Save our direct link to your favorite Web🌐Bookmark lists.**
-**No data📡collection, cookies, or storage required when you visit our page**
+> **Save our direct link to your favorite Web🌐Bookmark lists.**
+> **No data📡collection, cookies, or storage required when you visit our page**
 
 ![Everyday Quotes!](images/snapshot01072022.png "Everyday Quotes✨")
 ### Objective
