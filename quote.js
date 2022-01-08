@@ -37,6 +37,20 @@ var quotes = [
     'To one who has faith, no explanation is necessary. To one without faith, no explanation is possible.',
     'Human rights are not only violated by terrorism, repression or assassination, but also by unfair economic structures that creates huge inequalities.',
     'It\'s so liberating to really know what I want, what truly makes me happy, what I will not tolerate. I have learned that it is no one elses job to take care of me but me.',
+    'Don\'t settle for average. Bring your best to the moment. Then, whether it fails or succeeds, at least you know you gave all you had. We need to live the best that\'s in us.',
+    'It\’s not the load that breaks you down; it\’s the way you carry it.',
+    'The walk from Selma to Montgomery that turned into Bloody Sunday leaves us with a strong reminder of how much those before us gave for basic human rights.',
+    'Thanks to the rise of cloud computing, collaboration tools are becoming increasingly affordable, allowing even the smallest firms to implement enterprise-grade solutions that can significantly improve communication lines between employees and customers.',
+    'Looking down the road, space exploration and the benefits it yields - in medicine and information technology - should not be overlooked.',
+    'Friendship is the hardest thing in the world to explain. It\’s not something you learn in school. But if you haven\’t learned the meaning of friendship, you really haven\’t learned anything.',
+    'The most exciting phrase to hear in science, the one that heralds new discoveries, is not \'Eureka\!\' but \'That\'s funny...\'.',
+    'You have to motivate yourself with challenges. That\'s how you know you\'re still alive.',
+    'Be strong and courageous. Do not fear or be in dread of them, for it is the LORD your God who goes with you. He will not leave you or forsake you.',
+    'Have a heart that never hardens, and a temper that never tires and a touch that never hurts.',
+    'Step with care and great tact, and remember that Life\'s a Great Balancing Act.',
+    'Human rights is the soul of our foreign policy, because human rights is the very soul of our sense of nationhood.',
+    'Life is not a matter of place, things or comfort; rather, it concerns the basic human rights of family, country, justice and human dignity.',
+    'Design is the fundamental soul of a man-made creation that ends up expressing itself in successive outer layers of the product or service.'
 ]
 
 function newQuote() {
