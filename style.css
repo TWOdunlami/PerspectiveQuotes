@@ -1,20 +1,20 @@
 /* center boxes and apply accessibility-friendly colors. */
 @import url('https://fonts.googleapis.com/css2?family=Newsreader:wght@300;400&display=swap');
-body {
+body {                              /*Body styling has open source background, web font, and a black border color*/
     color: black;
     font-weight: 410;
     font-family: 'Newsreader', serif;
     background: no-repeat url("https://cdn.pixabay.com/photo/2016/10/29/01/30/abstract-1779589_960_720.png") black; /* repeat-y url("https://cdn.pixabay.com/photo/2019/10/09/10/52/light-4537085_960_720.jpg") */
     background-position: center top;
 }
-h1 {
+h1 {                /*Everyday Quotes with 'halo stamp' style icon*/
     text-align: center;
     font-weight: 210;
     margin-bottom: 100px;
     text-shadow: 2px 2px 2px white; /* rgba(214, 166, 177, 0.96) */
     cursor: pointer;
 }
-.iconLogo {
+.iconLogo {         /*halo stamp yoga icon*/
     border: 1px dotted rgb(223, 190, 185);
     box-shadow: 0px 4px 4px #E5E5E5;
     border-radius: 38px;
@@ -25,7 +25,7 @@ h1 {
     max-width: 40px;
     max-height: 40px;
 }
-.container {
+.container {            /*Rainbow container box*/
     border: 3px solid linen;
     background: url("https://images.pexels.com/photos/6775241/pexels-photo-6775241.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
     background-repeat: no-repeat;
@@ -37,13 +37,13 @@ h1 {
     margin: auto;
     cursor: pointer;
 }
-#quoteMsg {
+#quoteMsg {             /*Newsreader with text-shadow*/
     line-height: 1.1;
     font-size: 14px;
     text-align: center;
     text-shadow: 10px 10px 4px rgba(214, 166, 177, 0.96);
 }
-button {
+button {            /*wide thin button, reponsive for mobile and desktop*/
     display: inline;
     margin-top: 100px;
     margin-left: 339px;
@@ -62,7 +62,7 @@ button:hover {
     background-color: lightskyblue;
     color: black;
 }
-footer {
+footer {            /*Link to usability survey, and online profile icons*/
     position:fixed; 
     left:0; 
     bottom:0; 
@@ -73,11 +73,11 @@ footer {
     font-weight: 100;
     cursor: pointer;
 }
-.ghIcon, .liIcon {
+.ghIcon, .liIcon {          /*Github and LinkedIN icons from open source website, TheNounProject*/
     width: 15px;
     height: 15px;
 }
-.footerTag {
+.footerTag {            /*remove default text underline decoration*/
     color: white;
     text-decoration-line: none;
 }
