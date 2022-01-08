@@ -58,12 +58,3 @@ function newQuote() {
     document.getElementById('quoteMsg').innerHTML = quotes[randomNumber];
 }
 
-/*
-    var author = authors[Math.floor(Math.random() * authors.length)];
-    var quote = quote.[author];
-
-    document.getElementById("quoteMsg").innerHTML = quote;
-    document.getElementById("author").innerHTML = author;
-    var video = document.getElementById("vidLoop");
-}
-*/
