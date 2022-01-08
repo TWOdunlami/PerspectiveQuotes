@@ -1,7 +1,7 @@
 # PerspectiveQuotes
 
 Enjoy Everyday Quotes
-![Everyday Quotes!](images/snapshot01072022.png "Positive Quotes✨")
+![Everyday Quotes!](images/snapshot01072022.png "Everyday Quotes✨")
 ### Objective
 
 *Everyday Quotes* is a fun and quick <code>HTML</code> <code>CSS</code> and <code>Javascript</code> project to help me build on my UI/UX skills in web development. 
